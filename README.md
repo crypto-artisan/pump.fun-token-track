@@ -60,7 +60,7 @@ MODE=
 npm run start
 ```
 
-## Version 1.0,   21/6/2024
+## Version 1.0,   16/11/2024
 
 ## Contact me
 - [Telegram](https://t.me/JohnDAT0218)
